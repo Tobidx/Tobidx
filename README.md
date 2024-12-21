@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tobi
 - 👀 I’m interested in Data Science...
-- 🌱 I’m currently learning Big Data Analytics ...
 - I am open to Machine Learning, Data analyst and Data scientist roles 
 
 <!---
