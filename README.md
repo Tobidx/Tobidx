@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tobi
-- 👀 I’m interested in Data Science...
-- I am open to Machine Learning, Data analyst and Data scientist roles 
+- I'm a Data Scientist and AI Engineer
 
 <!---
 Tobidx/Tobidx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
