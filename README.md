@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tobi
-- I'm a Data Scientist, Business Analyst and AI Engineer
+- I'm a Data Scientist and AI Engineer
 - My Tech stack includes Python, React, Typescript, R, SQL, Visio, BPMN, LLMs( Langchain, Pinecone, Promptflow, Ragas, Azure OpenAI, Azure AI Foundry, etc), Tableau, PowerBI, Docker
 
 <!---
